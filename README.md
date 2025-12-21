@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Muhammad Taha Azhar  
-## 🚀 Microservices Architect | MERN Stack Developer | Cloud & DevOps Engineer  
-### ☁️ Scaling High-Performance Cloud-Native Systems on AWS
+# 👋 Muhammad Taha Azhar
+## Microservices Architect | MERN Stack Engineer | Cloud & Platform Engineering
+### Designing Scalable, Resilient & Cloud-Native Systems on AWS
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-taha-azhar" target="_blank">
+  <a href="https://www.linkedin.com/in/muhmmad-taha-azhar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha%20Azhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:taha@tahaportfolio.com">
@@ -13,86 +13,120 @@
 
 ---
 
-## 🧠 About Me
-- 🏗️ **Microservices Architect** building scalable, resilient, cloud-native platforms  
-- ☁️ Specialized in **AWS (ECS, Fargate, EKS, S3)** & **Infrastructure as Code (Terraform)**  
-- 🔁 Designed **event-driven systems** using RabbitMQ & real-time pipelines  
-- 🎓 **A+ Graduate** — COMSATS University Islamabad (Sahiwal Campus)  
-- 🇦🇪 **Relocating to Dubai (Feb 2026)** — open to **Cloud / Platform / Microservices roles**
+## 🧠 Professional Summary
+I am a **Microservices Architect and MERN Stack Engineer** with a strong focus on **cloud-native system design, distributed architectures, and platform scalability**.
+
+My work revolves around building **high-availability backend systems**, **event-driven microservices**, and **infrastructure-as-code pipelines** using AWS and modern DevOps practices. I enjoy working close to architecture-level problems such as system reliability, deployment automation, and service-to-service communication at scale.
+
+🎯 **Current Focus Areas**
+- Microservices & Distributed Systems
+- AWS Cloud Architecture (ECS, Fargate, EKS)
+- Infrastructure as Code (Terraform)
+- CI/CD & Platform Engineering
+- Backend Performance & Reliability
+
+📍 **Location:** Pakistan  
+🌍 **Career Plan:** Open to relocation for the right opportunity (UAE – 2026)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Core Technical Expertise
 
-### 🔧 Backend & APIs
+### 🔧 Backend & Microservices
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🎨 Frontend
+- REST & event-driven APIs  
+- Service decomposition & inter-service communication  
+- Authentication, authorization & API security  
+
+---
+
+### 🎨 Frontend Engineering
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### ☁️ Cloud & DevOps
+- Production-grade dashboards & admin panels  
+- Frontend-backend contract design  
+- Performance-oriented rendering strategies  
+
+---
+
+### ☁️ Cloud, DevOps & Platform Engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+- AWS ECS / Fargate production workloads  
+- CI/CD pipelines & zero-downtime deployments  
+- Infrastructure provisioning using Terraform  
+- Container orchestration & scaling strategies  
+
+---
+
 ### 🗄️ Databases & Messaging
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+- Data modeling for microservices  
+- Async workflows & event-based processing  
+- Reliability-focused messaging patterns  
+
 ---
 
-## 🌟 Featured Projects
+## 🌟 Selected Engineering Projects
 
 ### 🛰️ Super-Nova — Cloud-Native Microservices Platform
-🔗 https://github.com/ChaudharyTaha142/Super-Nova  
+🔗 https://github.com/ChaudharyTaha142/Super-Nova
 
-- **Architecture:** Microservices on AWS ECS/Fargate  
-- **IaC:** Terraform + CI/CD (Jenkins)  
-- **Availability:** 99.9% uptime design  
-- **Focus:** Scalability, resilience, zero-downtime deployments  
+- Designed a **multi-service backend architecture** on AWS ECS/Fargate  
+- Automated infrastructure using **Terraform & Jenkins CI/CD**  
+- Built for **high availability, scalability, and fault isolation**  
+- Focused on real-world production patterns  
 
 ---
 
-### 🍔 FoodO — Multi-Service Food Delivery Platform
-🔗 https://github.com/ChaudharyTaha142/FoodO  
+### 🍔 FoodO — Multi-Service Food Delivery System
+🔗 https://github.com/ChaudharyTaha142/FoodO
 
-- **Architecture:** MERN + Microservices  
-- **Features:** User, Rider, Vendor, Admin services  
-- **Messaging:** Event-driven workflows  
-- **Focus:** Real-world production-grade system design  
+- End-to-end **MERN-based microservices platform**  
+- Separate services for users, vendors, riders & admins  
+- Designed with **real business workflows & scalability in mind**  
 
 ---
 
 ### 🎵 Spotify-Piper — Event-Driven Streaming System
-🔗 https://github.com/ChaudharyTaha142/Spotify-Piper  
+🔗 https://github.com/ChaudharyTaha142/Spotify-Piper
 
-- **Tech:** MERN Stack, RabbitMQ, AWS S3  
-- **Design:** Distributed & real-time streaming  
-- **Focus:** Async processing & scalability  
-
----
-
-### 🤖 AI Chat App — RAG Architecture
-🔗 https://github.com/ChaudharyTaha142/AI-Chat-App-MERN  
-
-- **Tech:** Node.js, Gemini Pro, Pinecone  
-- **Concept:** Long-term memory using Retrieval-Augmented Generation  
+- Event-driven backend using **RabbitMQ**  
+- Cloud storage integration with **AWS S3**  
+- Emphasis on async processing & scalability  
 
 ---
 
+### 🤖 AI Chat Application — RAG Architecture
+🔗 https://github.com/ChaudharyTaha142/AI-Chat-App-MERN
 
-## 📍 Location
-**Harappa, Pakistan → Dubai, UAE (Feb 2026)**  
+- Retrieval-Augmented Generation (RAG) design  
+- Long-term memory using **Gemini Pro + Pinecone**  
+- Real-time messaging with Node.js  
 
 ---
+
+## 🤝 Let’s Connect
+I’m always open to discussions around:
+- Microservices architecture
+- Cloud & platform engineering
+- Backend system design
+- Scalable product engineering
+
+📩 Reach out via LinkedIn or email.
 
 <p align="center">
-  <b>🚀 Let’s build scalable cloud platforms & next-gen microservices together.</b>
+  <b>Building reliable systems today — scaling platforms for tomorrow.</b>
 </p>
